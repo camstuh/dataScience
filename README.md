@@ -1,2 +1,2 @@
 # dataScience
-Getting my NERD on
+studying data science 
